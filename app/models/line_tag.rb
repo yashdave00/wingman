@@ -1,0 +1,2 @@
+class LineTag < ApplicationRecord
+end
